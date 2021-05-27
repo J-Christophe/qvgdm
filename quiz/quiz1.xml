@@ -15,7 +15,15 @@
       <answerRight>Bérengère</answerRight>
     </question>
     <question rank="3">
-      <name>Question 3</name>
+      <name>&#x3C;table&#x3E;&#x3C;tr&#x3E;&#x3C;td width=&#x22;20%&#x22;&#x3E;Comment s&#x27;appelle la chanteuse ?&#x3C;/td&#x3E;&#x3C;/tr&#x3E;&#x3C;tr&#x3E;&#x3C;td&#x3E;&#x3C;figure&#x3E;
+    &#x3C;figcaption&#x3E;Listen to the T-Rex:&#x3C;/figcaption&#x3E;
+    &#x3C;audio
+        controls
+        src=&#x22;https://cf-hls-media.sndcdn.com/media/79411/159240/ao8kX59j1bj1.128.mp3?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKjovL2NmLWhscy1tZWRpYS5zbmRjZG4uY29tL21lZGlhLyovKi9hbzhrWDU5ajFiajEuMTI4Lm1wMyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYyMjE1MzUxMH19fV19&#x26;Signature=An1oflyhOXrD0ZNZQjW-uwfuez3Qtkt7dd-2IpK4DsyIDNhChhkzmSOlZtWB6olfapySk34uL0mmapErYeNqrMGbxQ9SEig5oh4hxLm9JOSpyMwdXuZ8V66qhSVoPwfnw3fZfUUM85Qm32-wrYzNMhyWB-dHUaqEIQPqvYTETS~YYpOvlv~1xZHMSNMYGjlS4gqiIuzPZ~Oqf4RtMkCp~2ErJblDcifuZjLuR4uml8PPi8oEJS9moVm9rMlmCZkSb5qEPbQU2NKyz3C9jGUmwdk0uXJmWNkFb97z44CtxAqybmtYVYie3TZVwfRYgtsQLYJdXPS~hjYHt4uk-7T5fA__&#x26;Key-Pair-Id=APKAI6TU7MMXM5DG6EPQ&#x22;&#x3E;
+            Your browser does not support the
+            &#x3C;code&#x3E;audio&#x3C;/code&#x3E; element.
+    &#x3C;/audio&#x3E;
+&#x3C;/figure&#x3E;&#x3C;/td&#x3E;&#x3C;/tr&#x3E;&#x3C;/table&#x3E;</name>
       <answerWrong>A wrong answer</answerWrong>
       <answerWrong>A wrong answer</answerWrong>
       <answerWrong>A wrong answer</answerWrong>
