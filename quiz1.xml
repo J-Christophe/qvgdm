@@ -1,7 +1,7 @@
 <quiz name="TestQuiz">
   <questions>
     <question rank="1">
-      <name>&#x3C;img src=&#x22;https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Question_book-4.svg/1280px-Question_book-4.svg.png&#x22;/&#x3E;</name>
+      <name>&#x3C;img src=&#x22;https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Question_book-4.svg/1280px-Question_book-4.svg.png&#x22; width="20%"/&#x3E;</name>
       <answerWrong>A wrong answer</answerWrong>
       <answerWrong>A wrong answer</answerWrong>
       <answerWrong>A wrong answer</answerWrong>
