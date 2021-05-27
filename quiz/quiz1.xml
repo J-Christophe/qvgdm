@@ -1,7 +1,7 @@
 <quiz name="TestQuiz">
   <questions>
     <question rank="1">
-      <name>&#x3C;table&#x3E;&#x3C;tr&#x3E;&#x3C;td width=&#x22;20%&#x22;&#x3E;&#x3C;img src=&#x22;res_quiz1/1.png&#x22;/&#x3E;&#x3C;/td&#x3E;&#x3C;td&#x3E;Pourquoi B&#xE9;reng&#xE8;re creuse-t-elle un trou?&#x3C;/td&#x3E;&#x3C;/tr&#x3E;&#x3C;/table&#x3E;</name>
+      <name>&#x3C;table&#x3E;&#x3C;tr&#x3E;&#x3C;td width=&#x22;20%&#x22;&#x3E;&#x3C;img src=&#x22;quiz/res_quiz1/1.png&#x22;/&#x3E;&#x3C;/td&#x3E;&#x3C;td&#x3E;Pourquoi B&#xE9;reng&#xE8;re creuse-t-elle un trou?&#x3C;/td&#x3E;&#x3C;/tr&#x3E;&#x3C;/table&#x3E;</name>
       <answerWrong>Parce que les WC sont en panne</answerWrong>
       <answerWrong>Pour cacher des microfilms de la DGA</answerWrong>
       <answerWrong>Pour cacher leurs provisions de confinement</answerWrong>
