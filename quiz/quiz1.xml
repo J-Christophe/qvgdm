@@ -1,0 +1,109 @@
+<quiz name="TestQuiz">
+  <questions>
+    <question rank="1">
+      <name>&#x3C;table&#x3E;&#x3C;tr&#x3E;&#x3C;td width=&#x22;20%&#x22;&#x3E;&#x3C;img src=&#x22;res_quiz1/1.png&#x22;/&#x3E;&#x3C;/td&#x3E;&#x3C;td&#x3E;Pourquoi B&#xE9;reng&#xE8;re creuse-t-elle un trou?&#x3C;/td&#x3E;&#x3C;/tr&#x3E;&#x3C;/table&#x3E;</name>
+      <answerWrong>Parce que les WC sont en panne</answerWrong>
+      <answerWrong>Pour cacher des microfilms de la DGA</answerWrong>
+      <answerWrong>Pour cacher leurs provisions de confinement</answerWrong>
+      <answerRight>Pour planter un arbre à chat</answerRight>
+    </question>
+    <question rank="2">
+      <name>Comment s'appelle la femme de Thierry ?</name>
+      <answerWrong>Elise</answerWrong>
+      <answerWrong>Alice</answerWrong>
+      <answerWrong>Bérangère</answerWrong>
+      <answerRight>Bérengère</answerRight>
+    </question>
+    <question rank="3">
+      <name>Question Three</name>
+      <answerWrong>A wrong answer</answerWrong>
+      <answerWrong>A wrong answer</answerWrong>
+      <answerWrong>A wrong answer</answerWrong>
+      <answerRight>The right answer</answerRight>
+    </question>
+    <question rank="4">
+      <name>Question Three</name>
+      <answerWrong>A wrong answer</answerWrong>
+      <answerWrong>A wrong answer</answerWrong>
+      <answerWrong>A wrong answer</answerWrong>
+      <answerRight>The right answer</answerRight>
+    </question>
+    <question rank="5">
+      <name>Question Three</name>
+      <answerWrong>A wrong answer</answerWrong>
+      <answerWrong>A wrong answer</answerWrong>
+      <answerWrong>A wrong answer</answerWrong>
+      <answerRight>The right answer</answerRight>
+    </question>
+    <question rank="6">
+      <name>Question Three</name>
+      <answerWrong>A wrong answer</answerWrong>
+      <answerWrong>A wrong answer</answerWrong>
+      <answerWrong>A wrong answer</answerWrong>
+      <answerRight>The right answer</answerRight>
+    </question>
+    <question rank="7">
+      <name>Question Three</name>
+      <answerWrong>A wrong answer</answerWrong>
+      <answerWrong>A wrong answer</answerWrong>
+      <answerWrong>A wrong answer</answerWrong>
+      <answerRight>The right answer</answerRight>
+    </question>
+    <question rank="8">
+      <name>Question Three</name>
+      <answerWrong>A wrong answer</answerWrong>
+      <answerWrong>A wrong answer</answerWrong>
+      <answerWrong>A wrong answer</answerWrong>
+      <answerRight>The right answer</answerRight>
+    </question>
+    <question rank="9">
+      <name>Question Three</name>
+      <answerWrong>A wrong answer</answerWrong>
+      <answerWrong>A wrong answer</answerWrong>
+      <answerWrong>A wrong answer</answerWrong>
+      <answerRight>The right answer</answerRight>
+    </question>
+    <question rank="10">
+      <name>Question Three</name>
+      <answerWrong>A wrong answer</answerWrong>
+      <answerWrong>A wrong answer</answerWrong>
+      <answerWrong>A wrong answer</answerWrong>
+      <answerRight>The right answer</answerRight>
+    </question>
+    <question rank="11">
+      <name>Question Three</name>
+      <answerWrong>A wrong answer</answerWrong>
+      <answerWrong>A wrong answer</answerWrong>
+      <answerWrong>A wrong answer</answerWrong>
+      <answerRight>The right answer</answerRight>
+    </question>
+    <question rank="12">
+      <name>Question Three</name>
+      <answerWrong>A wrong answer</answerWrong>
+      <answerWrong>A wrong answer</answerWrong>
+      <answerWrong>A wrong answer</answerWrong>
+      <answerRight>The right answer</answerRight>
+    </question>
+    <question rank="13">
+      <name>Question Three</name>
+      <answerWrong>A wrong answer</answerWrong>
+      <answerWrong>A wrong answer</answerWrong>
+      <answerWrong>A wrong answer</answerWrong>
+      <answerRight>The right answer</answerRight>
+    </question>
+    <question rank="14">
+      <name>Question Three</name>
+      <answerWrong>A wrong answer</answerWrong>
+      <answerWrong>A wrong answer</answerWrong>
+      <answerWrong>A wrong answer</answerWrong>
+      <answerRight>The right answer</answerRight>
+    </question>
+    <question rank="15">
+      <name>Question Three</name>
+      <answerWrong>A wrong answer</answerWrong>
+      <answerWrong>A wrong answer</answerWrong>
+      <answerWrong>A wrong answer</answerWrong>
+      <answerRight>The right answer</answerRight>
+    </question>
+  </questions>
+</quiz>

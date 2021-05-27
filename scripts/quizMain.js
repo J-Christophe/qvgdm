@@ -225,7 +225,7 @@ function Game() {
         parsedQuestions[x].getElementsByTagName("answerRight")[0].childNodes[0].nodeValue);
       }
     }
-  	xmlhttp.open("GET",prompt("Quiz öffnen:", "quiz1") + ".xml",false);
+  	xmlhttp.open("GET","quiz/" + prompt("Quiz à ouvrir:", "quiz1") + ".xml",false);
     xmlhttp.send();
   }
 
