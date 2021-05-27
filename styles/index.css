@@ -41,7 +41,7 @@ body {
   padding: 10px;
 }
 
-.element table tbody tr td{
+.element {
   color: white;
   background: radial-gradient(#243797, #0B1441);
   border-radius: 10px;
@@ -57,7 +57,7 @@ body {
   white-space: pre-line;
 }
 
-.element {
+.element table tbody tr td{
   color: white;
   background: radial-gradient(#243797, #0B1441);
   border-radius: 10px;
