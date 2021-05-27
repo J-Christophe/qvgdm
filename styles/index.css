@@ -41,7 +41,7 @@ body {
   padding: 10px;
 }
 
-.element {
+.element table tbody tr td{
   color: white;
   background: radial-gradient(#243797, #0B1441);
   border-radius: 10px;
