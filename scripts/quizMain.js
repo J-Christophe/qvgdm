@@ -280,6 +280,7 @@ function Game() {
       else {
         medallion.win(function() {
           questionBoard.clear();
+          alert("Vous avez gagné un repas chez Thierry & Bérangère :-)")
         });
       }
     }
