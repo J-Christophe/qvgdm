@@ -1,0 +1,110 @@
+<quiz name="TestQuiz">
+  <questions>
+    <question rank="1">
+      <name>&#x3C;table border=&#x22;0&#x22;&#x3E;&#x3C;tr&#x3E;&#x3C;td&#x3E;&#x3C;img src=&#x22;quiz/res_quiz2/1.png&#x22;/&#x3E;&#x3C;/td&#x3E;&#x3C;/tr&#x3E;&#x3C;tr&#x3E;&#x3C;td&#x3E;Pourquoi le dodo s&#x27;appelle-t-il ainsi ?&#x3C;/td&#x3E;&#x3C;/tr&#x3E;&#x3C;/table&#x3E;
+</name>
+      <answerWrong>il dormait plus de 20 heures par jour</answerWrong>
+      <answerWrong>son cri faisait "doo-doo"</answerWrong>
+      <answerWrong>c’est l’abréviation de "dorion doré"</answerWrong>
+      <answerRight>il avait des mouvements maladroits</answerRight>
+    </question>
+    <question rank="2">
+      <name>Combien de romans comporte la saga Harry Potter ?</name>
+      <answerWrong>4</answerWrong>
+      <answerWrong>5</answerWrong>
+      <answerWrong>6</answerWrong>
+      <answerRight>7</answerRight>
+    </question>
+    <question rank="3">
+      <name>Quel ingrédient trouve-t-on dans la bière de la marque Flying Dog ?</name>
+      <answerWrong>champagne</answerWrong>
+      <answerWrong>piment</answerWrong>
+      <answerWrong>chocolat</answerWrong>
+      <answerRight>huître</answerRight>
+    </question>
+    <question rank="4">
+      <name>Que commémore-t-on cette année ?</name>
+      <answerWrong>la naissance de Bonaparte</answerWrong>
+      <answerWrong>la vente d’un bon appart par Stéphane Plaza</answerWrong>
+      <answerWrong>la sortie de l’album Waterloo d’ABBA</answerWrong>
+      <answerRight>la mort de Bonaparte</answerRight>
+    </question>
+    <question rank="5">
+      <name>Que signifie le nom de famille "Caes" (d’origine flamande) ?</name>
+      <answerWrong>jambon</answerWrong>
+      <answerWrong>saucisson</answerWrong>
+      <answerWrong>cornichon</answerWrong>
+      <answerRight>fromage</answerRight>
+    </question>
+    <question rank="6">
+      <name>En 2016, quel mois a compté le plus de mariages ?</name>
+      <answerWrong>juillet</answerWrong>
+      <answerWrong>aout</answerWrong>
+      <answerWrong>septembre</answerWrong>
+      <answerRight>juin</answerRight>
+    </question>
+    <question rank="7">
+      <name>Dans "coup de foudre à Notting Hill", qui est l’actrice principale ?</name>
+      <answerWrong>Meg Ryan</answerWrong>
+      <answerWrong>Gwyneth Paltrow</answerWrong>
+      <answerWrong>Nicole Kidman</answerWrong>
+      <answerRight>Julia Roberts</answerRight>
+    </question>
+    <question rank="8">
+      <name>Pourquoi les maisons grecques sont-elles blanches ?</name>
+      <answerWrong>C’est la couleur de peinture la moins chère</answerWrong>
+      <answerWrong>Pour repousser les moustiques</answerWrong>
+      <answerWrong>Pour mieux voir les moustiques</answerWrong>
+      <answerRight>Pour protéger de la chaleur</answerRight>
+    </question>
+    <question rank="9">
+      <name>La ville de Bruges est célèbre pour</name>
+      <answerWrong>le coton</answerWrong>
+      <answerWrong>la soie</answerWrong>
+      <answerWrong>la laine</answerWrong>
+      <answerRight>la dentelle</answerRight>
+    </question>
+    <question rank="10">
+      <name>Que signifie le mot "antipasti" en italien ?</name>
+      <answerWrong>un plat servi après le plat principal</answerWrong>
+      <answerWrong>es personnes qui détestent les pâtes</answerWrong>
+      <answerWrong>les personnes qui détestent le pastis</answerWrong>
+      <answerRight>un plat servi avant le plat principal</answerRight>
+    </question>
+    <question rank="11">
+      <name>Qui a gagné Top Chef l’an dernier ?</name>
+      <answerWrong>Bérengère Caes</answerWrong>
+      <answerWrong>Thierry Caes</answerWrong>
+      <answerWrong>Adrien Cachot</answerWrong>
+      <answerRight>David Gallienne</answerRight>
+    </question>
+    <question rank="12">
+      <name>Le chat de Schrödinger est ...</name>
+      <answerWrong>le nom d’une BD de Philippe Geluck</answerWrong>
+      <answerWrong>celui qu’avait la Mère Michel</answerWrong>
+      <answerWrong>le nom du chat dans Shrek</answerWrong>
+      <answerRight>une expérience de physique</answerRight>
+    </question>
+    <question rank="13">
+      <name>Quelle est la capitale de l’Australie ?</name>
+      <answerWrong>Sydney</answerWrong>
+      <answerWrong>Melbourne</answerWrong>
+      <answerWrong>Perth</answerWrong>
+      <answerRight>Canberra</answerRight>
+    </question>
+    <question rank="14">
+      <name>Quel est le saint patron de la Bretagne ?</name>
+      <answerWrong>Yvan</answerWrong>
+      <answerWrong>Yann</answerWrong>
+      <answerWrong>Yoann</answerWrong>
+      <answerRight>Yves</answerRight>
+    </question>
+    <question rank="15">
+      <name>Que symbolise la coiffe des bigouden ?</name>
+      <answerWrong>Les risques de coup de soleil</answerWrong>
+      <answerWrong>une classe sociale élevée</answerWrong>
+      <answerWrong>le célibat</answerWrong>
+      <answerRight>les clochers des églises détruites par Louis XIV</answerRight>
+    </question>
+  </questions>
+</quiz>
