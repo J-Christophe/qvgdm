@@ -1,0 +1,109 @@
+<quiz name="TestQuiz">
+  <questions>
+    <question rank="1">
+      <name>Quel est le point commun entre Bruges et Venise ?</name>
+      <answerWrong>ce sont des cités qui craignent</answerWrong>
+      <answerWrong>ce sont des cités lagustres</answerWrong>
+      <answerWrong>ce sont des cités d’or</answerWrong>
+      <answerRight>ce sont des cités lacustres</answerRight>
+    </question>
+    <question rank="2">
+      <name>Quelle est la résidence officielle du Premier ministre britannique ?</name>
+      <answerWrong>21, Baker street</answerWrong>
+      <answerWrong>le pub le plus proche</answerWrong>
+      <answerWrong>Buckingham Palace</answerWrong>
+      <answerRight>10, Downing street</answerRight>
+    </question>
+    <question rank="3">
+      <name>Comment s'appelle le drapeau breton ?</name>
+      <answerWrong>Gwen Stefani</answerWrong>
+      <answerWrong>Gwenn-ha-Gwenn</answerWrong>
+      <answerWrong>Du-ha-Gwenn</answerWrong>
+      <answerRight>Gwenn-ha-Du</answerRight>
+    </question>
+    <question rank="4">
+      <name>Quel est le vrai nom de Molière ?</name>
+      <answerWrong>Jean-Christophe Craquelin</answerWrong>
+      <answerWrong>Jean-Anatole Pourcin</answerWrong>
+      <answerWrong>Jean-Philippe Pot-de-vin</answerWrong>
+      <answerRight>Jean-Baptiste Poquelin</answerRight>
+    </question>
+    <question rank="5">
+      <name>Qui a écrit 1984 ?</name>
+      <answerWrong>Aldous Huxley</answerWrong>
+      <answerWrong>H.G. Wells</answerWrong>
+      <answerWrong>Isaac Asimov</answerWrong>
+      <answerRight>George Orwell</answerRight>
+    </question>
+    <question rank="6">
+      <name>Sur quelle île Napoléon est-il mort ?</name>
+      <answerWrong>la Corse</answerWrong>
+      <answerWrong>l’île d’Elbe</answerWrong>
+      <answerWrong>l’île aux oiseaux</answerWrong>
+      <answerRight>l’île de Sainte Hélène</answerRight>
+    </question>
+    <question rank="7">
+      <name>Quel groupe de musique a enregistré l’album ‘Nevermind’ en 1991 ?</name>
+      <answerWrong>Pearl Jam</answerWrong>
+      <answerWrong>The Smashing Pumpkins</answerWrong>
+      <answerWrong>Foo Fighters</answerWrong>
+      <answerRight>Nirvana</answerRight>
+    </question>
+    <question rank="8">
+      <name>Comment s'appelait la Bretagne autrefois ?</name>
+      <answerWrong>Chambord</answerWrong>
+      <answerWrong>Cheverny</answerWrong>
+      <answerWrong>Chenonceau</answerWrong>
+      <answerRight>un château d’eau</answerRight>
+    </question>
+    <question rank="9">
+      <name>De quel château s’est inspiré Hergé pour dessiner le château de Moulinsart ?</name>
+      <answerWrong>Chambord</answerWrong>
+      <answerWrong>la Gaule</answerWrong>
+      <answerWrong>Armorique</answerWrong>
+      <answerRight>Cheverny</answerRight>
+    </question>    
+    <question rank="10">
+      <name>Où se trouve le musée de l’Ermitage ?</name>
+      <answerWrong>Madrid</answerWrong>
+      <answerWrong>Florence</answerWrong>
+      <answerWrong>Londres</answerWrong>
+      <answerRight>Saint Pétersbourg</answerRight>
+    </question>
+    <question rank="11">
+      <name>Qui a peint 'Impression, soleil levant' ?</name>
+      <answerWrong>Edouard Manet</answerWrong>
+      <answerWrong>Auguste Renoir</answerWrong>
+      <answerWrong>Auguste Renoir</answerWrong>
+      <answerRight>Claude Monet</answerRight>
+    </question>
+    <question rank="12">
+      <name>Quelle est la suite du générique suivant "Goldorak go …"</name>
+      <answerWrong>superlaser en fusion</answerWrong>
+      <answerWrong>mégalaser à l’horizon</answerWrong>
+      <answerWrong>rétrolasers en action</answerWrong>
+      <answerRight>go gadgeto vision</answerRight>
+    </question>
+    <question rank="13">
+      <name>Que signifie le mot anglais "titbit"</name>
+      <answerWrong>petite ****</answerWrong>
+      <answerWrong>possesseur de bitcoins</answerWrong>
+      <answerWrong>ce mot n’existe pas</answerWrong>
+      <answerRight>friandise</answerRight>
+    </question>
+    <question rank="14">
+      <name>Combien de temps a duré la guerre de cent ans ?</name>
+      <answerWrong>100 ans</answerWrong>
+      <answerWrong>99 ans</answerWrong>
+      <answerWrong>106 ans</answerWrong>
+      <answerRight>116 ans</answerRight>
+    </question>
+    <question rank="15">
+      <name>Quel alcool utilise-t-on dans le cocktail Margarita ?</name>
+      <answerWrong>vodka</answerWrong>
+      <answerWrong>rhum</answerWrong>
+      <answerWrong>cidre</answerWrong>
+      <answerRight>tequila</answerRight>
+    </question>
+  </questions>
+</quiz>

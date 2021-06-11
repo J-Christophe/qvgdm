@@ -1,0 +1,109 @@
+<quiz name="TestQuiz">
+  <questions>
+    <question rank="1">
+      <name>Qui est l’idole des donaldistes ?</name>
+      <answerWrong>Donald Trump</answerWrong>
+      <answerWrong>Oncle Picsou</answerWrong>
+      <answerWrong>Donald Duck</answerWrong>
+      <answerRight>McDonald's</answerRight>
+    </question>
+    <question rank="2">
+      <name>Qui s’est écrié "I have a dream" ?</name>
+      <answerWrong>Sigmund Freud</answerWrong>
+      <answerWrong>King Kong</answerWrong>
+      <answerWrong>Stephen King</answerWrong>
+      <answerRight>Martin Luther King</answerRight>
+    </question>
+    <question rank="3">
+      <name>Quels pays étaient demi-finalistes de la coupe du monde de football en 1998 : La France, le Brésil, la Croatie et…</name>
+      <answerWrong>l'Espagne</answerWrong>
+      <answerWrong>l'Argentine</answerWrong>
+      <answerWrong>l’Allemagne</answerWrong>
+      <answerRight>les Pays Bas</answerRight>
+    </question>
+    <question rank="4">
+      <name>A combien équivaut un téramètre ?</name>
+      <answerWrong>1 000 000 000 m</answerWrong>
+      <answerWrong>1 000 000 m</answerWrong>
+      <answerWrong>1 000 m</answerWrong>
+      <answerRight>1 000 000 000 000 m</answerRight>
+    </question>
+    <question rank="5">
+      <name>De quelle matière est faite la corne de rhinocéros ?</name>
+      <answerWrong>il n’a pas de corne</answerWrong>
+      <answerWrong>d'ivoire</answerWrong>
+      <answerWrong>de nacre</answerWrong>
+      <answerRight>de poils</answerRight>
+    </question>
+    <question rank="6">
+      <name>Comment s’écrit 69 en chiffres romains ?</name>
+      <answerWrong>LIX</answerWrong>
+      <answerWrong>LXI</answerWrong>
+      <answerWrong>LXXIX</answerWrong>
+      <answerRight>LXIX</answerRight>
+    </question>
+    <question rank="7">
+      <name>Qui a inventé le paratonnerre ?</name>
+      <answerWrong>Thomas Edison</answerWrong>
+      <answerWrong>Nikola Tesla</answerWrong>
+      <answerWrong>Claude François</answerWrong>
+      <answerRight>Benjamin Franklin</answerRight>
+    </question>
+    <question rank="8">
+      <name>Qui est la déesse grecque de l’amour ?</name>
+      <answerWrong>Vénus</answerWrong>
+      <answerWrong>Artémis</answerWrong>
+      <answerWrong>Athéna</answerWrong>
+      <answerRight>Aphrodite</answerRight>
+    </question>
+    <question rank="9">
+      <name>Quelle ville américaine a été fondée par les Mormons ?</name>
+      <answerWrong>Seattle</answerWrong>
+      <answerWrong>Las Vegas</answerWrong>
+      <answerWrong>Détroit</answerWrong>
+      <answerRight>Salt Lake City</answerRight>
+    </question>
+    <question rank="10">
+      <name>Quel mammifère a quatre genoux ?</name>
+      <answerWrong>la girafe</answerWrong>
+      <answerWrong>le chat</answerWrong>
+      <answerWrong>le dromadaire</answerWrong>
+      <answerRight>l’éléphant</answerRight>
+    </question>
+    <question rank="11">
+      <name>Qui est l’auteur du Château des Carpathes ?</name>
+      <answerWrong>Bram Stoker</answerWrong>
+      <answerWrong>Mary Shelley</answerWrong>
+      <answerWrong>Paul d'Ivoi</answerWrong>
+      <answerRight>Jules Verne</answerRight>
+    </question>
+    <question rank="12">
+      <name>Quel est le point commun des gorilles et des cigognes ?</name>
+      <answerWrong>ils ont le même cri</answerWrong>
+      <answerWrong>ils aiment les bananes</answerWrong>
+      <answerWrong>on en trouve sur les toits alsaciens</answerWrong>
+      <answerRight>ils construisent un nid</answerRight>
+    </question>
+    <question rank="13">
+      <name>Quel est l’autre nom du scorsonère ?</name>
+      <answerWrong>le topinambour</answerWrong>
+      <answerWrong>les crosnes</answerWrong>
+      <answerWrong>le poireau</answerWrong>
+      <answerRight>le salsifis noir</answerRight>
+    </question>
+    <question rank="14">
+      <name>Quelle est la plus grande gare de Paris ?</name>
+      <answerWrong>la gare Montparnasse</answerWrong>
+      <answerWrong>la gare Saint Lazare</answerWrong>
+      <answerWrong>la gare du Nord</answerWrong>
+      <answerRight>la gare de Lyon</answerRight>
+    </question>
+    <question rank="15">
+      <name>Dans quelle ville se déroule l’action du film "Bullit" ?</name>
+      <answerWrong>San Diego</answerWrong>
+      <answerWrong>Santa Barbara</answerWrong>
+      <answerWrong>Saint-Malo</answerWrong>
+      <answerRight>San Francisco</answerRight>
+    </question>
+  </questions>
+</quiz>

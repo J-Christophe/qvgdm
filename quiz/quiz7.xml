@@ -1,0 +1,109 @@
+<quiz name="TestQuiz">
+  <questions>
+    <question rank="1">
+      <name>&#x3C;table&#x3E;&#x3C;tr&#x3E;&#x3C;td width=&#x22;20%&#x22;&#x3E;&#x3C;img src=&#x22;quiz/res_quiz7/1.png&#x22;/&#x3E;&#x3C;/td&#x3E;&#x3C;td&#x3E;Quel est cet animal ?&#x3C;/td&#x3E;&#x3C;/tr&#x3E;&#x3C;/table&#x3E;</name>
+      <answerWrong>Un chat de gouttière</answerWrong>
+      <answerWrong>Un tigre</answerWrong>
+      <answerWrong>Le chat du voisin de Bérengère et Thierry</answerWrong>
+      <answerRight>Le chat de Bérengère et Thierry</answerRight>
+    </question>
+    <question rank="2">
+      <name>Qui n’a pas joué dans le film « La Grande Vadrouille » ?</name>
+      <answerWrong>Paul Préboist</answerWrong>
+      <answerWrong>Louis de Funès</answerWrong>
+      <answerWrong>Bourvil</answerWrong>
+      <answerRight>Thierry Caes</answerRight>
+    </question>
+    <question rank="3">
+      <name>Qui a écrit la tragédie « Roméo et Juliette » ?</name>
+      <answerWrong>Molière</answerWrong>
+      <answerWrong>Lewis Caroll</answerWrong>
+      <answerWrong>Pierre Corneille</answerWrong>
+      <answerRight>William Shakespeare</answerRight>
+    </question>
+    <question rank="4">
+      <name>De quel ingrédient n’est pas composée la bière ?</name>
+      <answerWrong>Houblon</answerWrong>
+      <answerWrong>Malt</answerWrong>
+      <answerWrong>Levure</answerWrong>
+      <answerRight>Farine</answerRight>
+    </question>
+    <question rank="5">
+      <name>Comment appelle-t-on les habitants de Guichen ?</name>
+      <answerWrong>Guichon</answerWrong>
+      <answerWrong>Guichu</answerWrong>
+      <answerWrong>Guichenu</answerWrong>
+      <answerRight>Guichenais</answerRight>
+    </question>
+    <question rank="6">
+      <name>Qui est la déesse de l’amour ?</name>
+      <answerWrong>Apollon</answerWrong>
+      <answerWrong>Artémis</answerWrong>
+      <answerWrong>Héra</answerWrong>
+      <answerRight>Aphrodite</answerRight>
+    </question>
+    <question rank="7">
+      <name>&#x3C;table&#x3E;&#x3C;tr&#x3E;&#x3C;td width=&#x22;20%&#x22;&#x3E;&#x3C;img src=&#x22;quiz/res_quiz7/7.png&#x22;/&#x3E;&#x3C;/td&#x3E;&#x3C;td&#x3E;Quel est le nom de ce magnifique animal ?&#x3C;/td&#x3E;&#x3C;/tr&#x3E;&#x3C;/table&#x3E;</name>
+      <answerWrong>Chenille de la Pyrale de l’ortie</answerWrong>
+      <answerWrong>Chenille du papillon</answerWrong>
+      <answerWrong>Chenille à poids bleu</answerWrong>
+      <answerRight>Chenille du Grand Paon de nuit</answerRight>
+    </question>
+    <question rank="8">
+      <name>Quelle ville ne se situe pas dans la région Bretagne ?</name>
+      <answerWrong>Saint-Malo</answerWrong>
+      <answerWrong>Vannes</answerWrong>
+      <answerWrong>Brest</answerWrong>
+      <answerRight>Mont-Saint-Michel</answerRight>
+    </question>
+    <question rank="9">
+      <name>En quelle année a été achevée la Tour Eiffel ?</name>
+      <answerWrong>1887</answerWrong>
+      <answerWrong>1888</answerWrong>
+      <answerWrong>1890</answerWrong>
+      <answerRight>1889</answerRight>
+    </question>    
+    <question rank="10">
+      <name>Qui est, actuellement, le ministre des armées ?</name>
+      <answerWrong>Jean-Yves Le Drian</answerWrong>
+      <answerWrong>Thierry Caes</answerWrong>
+      <answerWrong>Sylvie Goulard</answerWrong>
+      <answerRight>Florence Parly</answerRight>
+    </question>
+    <question rank="11">
+      <name>&#x3C;table&#x3E;&#x3C;tr&#x3E;&#x3C;td width=&#x22;20%&#x22;&#x3E;&#x3C;img src=&#x22;quiz/res_quiz7/11.png&#x22;/&#x3E;&#x3C;/td&#x3E;&#x3C;td&#x3E;Quel est le nom de cette fleur ?&#x3C;/td&#x3E;&#x3C;/tr&#x3E;&#x3C;/table&#x3E;</name>
+      <answerWrong>Molène</answerWrong>
+      <answerWrong>Myosotis</answerWrong>
+      <answerWrong>Marguerite</answerWrong>
+      <answerRight>Muscari</answerRight>
+    </question>
+    <question rank="12">
+      <name>Cyril Lignac est un chef cuisinier, pâtissier et animateur télé. Dans sa carrière, il a ouvert plusieurs restaurants dont le restaurant « le quinzième ». Combien d’étoile au Guide Michelin a-t-il reçu pour ce restaurant ?</name>
+      <answerWrong>0</answerWrong>
+      <answerWrong>2</answerWrong>
+      <answerWrong>3</answerWrong>
+      <answerRight>1</answerRight>
+    </question>
+    <question rank="13">
+      <name>Venise compte six quartiers. Parmi ces noms lequel n’est pas un quartier de Venise ?</name>
+      <answerWrong>San Polo</answerWrong>
+      <answerWrong>San Marco</answerWrong>
+      <answerWrong>Castello</answerWrong>
+      <answerRight>Murano</answerRight>
+    </question>
+    <question rank="14">
+      <name>Quelle est la capitale de L’île Maurice ?</name>
+      <answerWrong>Tamarin</answerWrong>
+      <answerWrong>Port-le-Grand</answerWrong>
+      <answerWrong>Port-Vendres</answerWrong>
+      <answerRight>Port-Louis</answerRight>
+    </question>
+    <question rank="15">
+      <name>En quelle année le mariage civil a-t-il été institué ?</name>
+      <answerWrong>1526</answerWrong>
+      <answerWrong>1804</answerWrong>
+      <answerWrong>1884</answerWrong>
+      <answerRight>1792</answerRight>
+    </question>
+  </questions>
+</quiz>

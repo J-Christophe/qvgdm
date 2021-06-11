@@ -1,0 +1,109 @@
+<quiz name="TestQuiz">
+  <questions>
+    <question rank="1">
+      <name>Quelle est la marque de champagne préférée de James Bond ?</name>
+      <answerWrong>Nicolas Feuillatte</answerWrong>
+      <answerWrong>Veuve Clicquot</answerWrong>
+      <answerWrong>Moët & Chandon</answerWrong>
+      <answerRight>Dom Pérignon</answerRight>
+    </question>
+    <question rank="2">
+      <name>Quel est le fleuve le plus long ?</name>
+      <answerWrong>le Nil</answerWrong>
+      <answerWrong>le Mississipi</answerWrong>
+      <answerWrong>la Vilaine</answerWrong>
+      <answerRight>l’Amazone</answerRight>
+    </question>
+    <question rank="3">
+      <name>Comment peut-on différencier les Dupont / Dupond dans les albums de Tintin ?</name>
+      <answerWrong>par la couleur de leurs sous-vêtements</answerWrong>
+      <answerWrong>par la couleur de leurs yeux</answerWrong>
+      <answerWrong>par la couleur de leur costume</answerWrong>
+      <answerRight>par la forme de leur moustache</answerRight>
+    </question>
+    <question rank="4">
+      <name>Quel ingrédient utilise-t-on traditionnellement pour parfumer le riz au lait ?</name>
+      <answerWrong>des feuilles d’aluminium</answerWrong>
+      <answerWrong>des feuilles de menthe</answerWrong>
+      <answerWrong>des feuilles de chou</answerWrong>
+      <answerRight>des feuilles de laurier palme</answerRight>
+    </question>
+    <question rank="5">
+      <name>Dans quel film Cary Grant est-il poursuivi par un avion ?</name>
+      <answerWrong>La main au collet</answerWrong>
+      <answerWrong>Les enchaînés</answerWrong>
+      <answerWrong>Soupçons</answerWrong>
+      <answerRight>La mort aux trousses</answerRight>
+    </question>
+    <question rank="6">
+      <name>Quel est le 13ème signe du zodiaque ?</name>
+      <answerWrong>Poudlaire</answerWrong>
+      <answerWrong>Poufsouffle</answerWrong>
+      <answerWrong>Gryffondor</answerWrong>
+      <answerRight>Serpentaire</answerRight>
+    </question>
+    <question rank="7">
+      <name>Quelle est l’épice la plus chère ?</name>
+      <answerWrong>la cannelle</answerWrong>
+      <answerWrong>le cumin</answerWrong>
+      <answerWrong>le paprika</answerWrong>
+      <answerRight>le safran</answerRight>
+    </question>
+    <question rank="8">
+      <name>Dans quelle ville allemande a lieu la fête appelée Oktoberfest ?</name>
+      <answerWrong>Stuttgart</answerWrong>
+      <answerWrong>Munich</answerWrong>
+      <answerWrong>Bonn</answerWrong>
+      <answerRight>Berlin</answerRight>
+    </question>
+    <question rank="9">
+      <name>Quel est le premier animal envoyé dans l’espace ?</name>
+      <answerWrong>un singe</answerWrong>
+      <answerWrong>une souris</answerWrong>
+      <answerWrong>un cochon d’inde</answerWrong>
+      <answerRight>un chien</answerRight>
+    </question>
+    <question rank="10">
+      <name>En anglais, que signifie le mot "physician" ?</name>
+      <answerWrong>électricien</answerWrong>
+      <answerWrong>physicien</answerWrong>
+      <answerWrong>médecin</answerWrong>
+      <answerRight>chimiste</answerRight>
+    </question>
+    <question rank="11">
+      <name>Quels sont les plus grands arbres ?</name>
+      <answerWrong>les pyracanthas de Guichen</answerWrong>
+      <answerWrong>les chênes de Chambord</answerWrong>
+      <answerWrong>les cèdres du Liban</answerWrong>
+      <answerRight>les séquoias de Californie</answerRight>
+    </question>
+    <question rank="12">
+      <name>Comment s’appellent les fêtes célébrées à Pampelune en juillet ?</name>
+      <answerWrong>San Marco</answerWrong>
+      <answerWrong>San Mario</answerWrong>
+      <answerWrong>San M’intéresse pas</answerWrong>
+      <answerRight>San Fermín</answerRight>
+    </question>
+    <question rank="13">
+      <name>Dans l'Océan Indien, les ouragans sont appelés ...</name>
+      <answerWrong>typhon</answerWrong>
+      <answerWrong>tornade</answerWrong>
+      <answerWrong>tsunami</answerWrong>
+      <answerRight>cyclone</answerRight>
+    </question>
+    <question rank="14">
+      <name>Comment s’appelle la fille de l’ancienne ministre du Logement Cécile Duflot ?</name>
+      <answerWrong>Tartiflette</answerWrong>
+      <answerWrong>Gaufrette</answerWrong>
+      <answerWrong>Javel</answerWrong>
+      <answerRight>Térébentine</answerRight>
+    </question>
+    <question rank="15">
+      <name>"Caméléopard" est le nom donné autrefois aux ...</name>
+      <answerWrong>chameaux</answerWrong>
+      <answerWrong>dromadaires</answerWrong>
+      <answerWrong>panthères</answerWrong>
+      <answerRight>girafes</answerRight>
+    </question>
+  </questions>
+</quiz>

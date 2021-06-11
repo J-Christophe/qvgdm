@@ -1,0 +1,109 @@
+<quiz name="TestQuiz">
+  <questions>
+    <question rank="1">
+      <name>Qui interprète le rôle de Chewbacka dans Star Wars ?</name>
+      <answerWrong>Emmanuel Chain</answerWrong>
+      <answerWrong>Bérengère</answerWrong>
+      <answerWrong>Chewbacka lui-même</answerWrong>
+      <answerRight>Peter William Mayhew</answerRight>
+    </question>
+    <question rank="2">
+      <name>Quel film pouvait-on voir sur les écrans en 1977 ?</name>
+      <answerWrong>Star Wars : La Menace fantôme</answerWrong>
+      <answerWrong>le film de naissance de Thierry</answerWrong>
+      <answerWrong>Star Wars : L’Empire contre-attaque</answerWrong>
+      <answerRight>Un nouvel espoir</answerRight>
+    </question>
+    <question rank="3">
+      <name>Quel est le signe astrologique des personnes nées le 12 juin ?</name>
+      <answerWrong>Taureau</answerWrong>
+      <answerWrong>Vierge</answerWrong>
+      <answerWrong>Sagittaire</answerWrong>
+      <answerRight>Gémeaux</answerRight>
+    </question>
+    <question rank="4">
+      <name>De quelle couleur est la culotte de Winnie l’Ourson ?</name>
+      <answerWrong>bleu</answerWrong>
+      <answerWrong>jaune</answerWrong>
+      <answerWrong>rouge</answerWrong>
+      <answerRight> il n’en porte pas</answerRight>
+    </question>
+    <question rank="5">
+      <name>Quel est le plus petit pays du monde ?</name>
+      <answerWrong>Saint-Marin</answerWrong>
+      <answerWrong>Monaco</answerWrong>
+      <answerWrong>GuichenLand</answerWrong>
+      <answerRight>le Vatican</answerRight>
+    </question>
+    <question rank="6">
+      <name>Comment César est-il mort ?</name>
+      <answerWrong>à cause d’une Lexus</answerWrong>
+      <answerWrong>à cause d’un virus</answerWrong>
+      <answerWrong>à cause de Flavius</answerWrong>
+      <answerRight>à cause de Brutus</answerRight>
+    </question>
+    <question rank="7">
+      <name>Qui a écrit “Trois hommes dans un bateau” ?</name>
+      <answerWrong>Thierry C. Thierry</answerWrong>
+      <answerWrong>Bérengère D.G. Bérengère</answerWrong>
+      <answerWrong>Andrew H. Andrew</answerWrong>
+      <answerRight>Jerome K. Jerome</answerRight>
+    </question>
+    <question rank="8">
+      <name>Quel film pouvait-on voir sur les écrans en 1981 ?</name>
+      <answerWrong>le film de naissance de Bérengère</answerWrong>
+      <answerWrong>Indiana Jones et la Dernière Croisade</answerWrong>
+      <answerWrong>Indiana Jones et le Temple maudit</answerWrong>
+      <answerRight>Les Aventuriers de l'arche perdue</answerRight>
+    </question>
+    <question rank="9">
+      <name>Qui a écrit le "Mariage de Figaro" ?</name>
+      <answerWrong>Corneille</answerWrong>
+      <answerWrong>Vigny</answerWrong>
+      <answerWrong>Musset</answerWrong>
+      <answerRight>Beaumarchais</answerRight>
+    </question>
+    <question rank="10">
+      <name>Que craint un batracophobe ?</name>
+      <answerWrong>les chauve-souris</answerWrong>
+      <answerWrong>les rats</answerWrong>
+      <answerWrong>les batracophiles</answerWrong>
+      <answerRight>les grenouilles</answerRight>
+    </question>
+    <question rank="11">
+      <name>Quelle est la suite des paroles de la chanson de Vianney "Moi aimer toi" : "Que je me mouche dans tes bras, sois ma …"</name>
+      <answerWrong>biscotte</answerWrong>
+      <answerWrong>grosse crotte</answerWrong>
+      <answerWrong>cracotte</answerWrong>
+      <answerRight>carotte</answerRight>
+    </question>
+    <question rank="12">
+      <name>Comment appelle-t-on les habitants de l’Ille-et-Vilaine ?</name>
+      <answerWrong>breizh-illiens</answerWrong>
+      <answerWrong>hauts-bretons</answerWrong>
+      <answerWrong>Vilainillois</answerWrong>
+      <answerRight>brétilliens</answerRight>
+    </question>
+    <question rank="13">
+      <name>Comment s’appelle le petit du hérisson ?</name>
+      <answerWrong>hérissonnet</answerWrong>
+      <answerWrong>hérissonin</answerWrong>
+      <answerWrong>hérissonain</answerWrong>
+      <answerRight>choupisson</answerRight>
+    </question>
+    <question rank="14">
+      <name>Que collectionne un cervalobélophile ?</name>
+      <answerWrong>des chopes de bière</answerWrong>
+      <answerWrong>du cervelas</answerWrong>
+      <answerWrong>des cerfs-volants</answerWrong>
+      <answerRight>des étiquettes de bouteilles de bière</answerRight>
+    </question>
+    <question rank="15">
+      <name>Quel est le point culminant de la Bretagne ?</name>
+      <answerWrong>le clocher de Guichen</answerWrong>
+      <answerWrong>Roc’h Trévézel</answerWrong>
+      <answerWrong>Roc’h Trédudon</answerWrong>
+      <answerRight>Roc’h Ruz</answerRight>
+    </question>
+  </questions>
+</quiz>
